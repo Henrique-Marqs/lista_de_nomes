@@ -18,16 +18,4 @@ main() {
    print("\n");
  }
 
-
-// List<String?> nomes = ["Henrique Marques", "Ariana Grande", "Julia Miranda", "Rodrigo Abranches"];
-
-// nomes.add("Theo Marques");
-
-// print(nomes);
-
-// nomes.removeAt(3);
-
-// print(nomes);
-
-
 }
